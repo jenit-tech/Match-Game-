@@ -1,0 +1,14 @@
+.appitem-item {
+  margin: 15px;
+}
+
+.appitem-image {
+  width: 80px;
+  height: 80px;
+}
+
+.app-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
